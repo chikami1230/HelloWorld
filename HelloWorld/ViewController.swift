@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  HelloWorld
 //
-//  Created by 千頭雅史 on 2021/03/07.
+//  Created by chika1230 on 2021/03/07.
 //  Copyright © 2021 chika1230. All rights reserved.
 //
 
